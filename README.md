@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jgriffin1978
-- 👀 I’m interested in ... BLE hardware communication 
+- 👀 I’m interested in ... Making life easier / BLE hardware communication 
 - 🌱 I’m currently learning ... How to start a business 
 - 💞️ I’m looking to collaborate on ... BLE / Mesh networking/ 
 - 📫 How to reach me ... jgriffinhmi@gmail.com
